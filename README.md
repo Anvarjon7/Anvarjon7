@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperbat.com/img/9351861-latest-java-technologies-and-trends.png" alt="Masterhead Image">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Masterhead GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Anvarjon Azimov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
