@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TimeTrackApp](https://github.com/Anvarjon7/TimeTrackinApp)
+- 🔭 I’m currently working on [Avy](https://github.com/Anvarjon7/avy-backend)
 
 - 🌱 I’m currently learning **Spring Boot**
 
