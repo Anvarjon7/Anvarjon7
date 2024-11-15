@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Avy](https://github.com/Anvarjon7/avy-backend)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Azure Fundamentials**
 
 - 📫 How to reach me **azimov.anvarjon777@gmail.com**
 
