@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Avy](https://github.com/Anvarjon7/avy-backend)
+- 🔭 I’m currently working on [Avy](https://github.com/Anvarjon7/GHAWatch)
 
-- 🌱 I’m currently learning **Azure Fundamentials**
+- 🌱 I’m currently learning **AWS Fundamentials**
 
-- 📫 How to reach me **azimov.anvarjon777@gmail.com**
+- 📫 How to reach me **anvarjonazim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
