@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Third-party CI/CD tool GHAWatch (Github Actions Monitor)](https://github.com/Anvarjon7/GHAWatch)
+- 🔭 I’m currently working on [Khwarizmi — E-Learning Platform Backend](https://github.com/Anvarjon7/learning-platfrom)]
 
 - 🌱 I’m currently learning **AWS Fundamentials**
 
