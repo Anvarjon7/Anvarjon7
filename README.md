@@ -2,10 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Anvarjon%20Azimov&fontSize=70&animation=fadeIn" alt="Header Wave">
 </p>
 
-<h1 align="center">Backend Engineer & Systems Architect 👋</h1>
-<p align="center">
-  <strong>Crafting scalable solutions with Java, Spring, and Dart</strong>
-</p>
+<h1 align="center">Backend Software Engineer 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/anvarjon-azimov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
